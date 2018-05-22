@@ -2,7 +2,7 @@ package object
 
 import (
 	"fmt"
-	"monkey/ast"
+	"github.com/jacobwme/monkey/ast"
 	"bytes"
 	"strings"
 )

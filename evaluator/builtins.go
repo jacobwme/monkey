@@ -1,7 +1,7 @@
 package evaluator
 
 import (
-	"monkey/object"
+	"github.com/jacobwme/monkey/object"
 	// "unicode/utf8"
 )
 

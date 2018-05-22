@@ -1,8 +1,8 @@
 package evaluator
 
 import (
-	"monkey/ast"
-	"monkey/object"
+	"github.com/jacobwme/monkey/ast"
+	"github.com/jacobwme/monkey/object"
 	"fmt"
 )
 
